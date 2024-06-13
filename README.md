@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aivaa-team
-- 👀 I’m interested in LLM
+- 👀 I’m interested in Local LLM
 
 
 <!---
